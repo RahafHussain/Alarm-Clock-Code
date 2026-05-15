@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqEEWc/97zg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahaf\\OneDrive\\Desktop\\F2024 - S2025\\F24 CPS613\\Assignment\\Assignment.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahaf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\rahaf\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\rahaf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\rahaf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

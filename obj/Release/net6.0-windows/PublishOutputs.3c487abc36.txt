@@ -1,0 +1,5 @@
+C:\Users\rahaf\OneDrive\Desktop\F2024 - S2025\F24 CPS613\Assignment\bin\Release\net6.0-windows\publish\Assignment.exe
+C:\Users\rahaf\OneDrive\Desktop\F2024 - S2025\F24 CPS613\Assignment\bin\Release\net6.0-windows\publish\Assignment.dll
+C:\Users\rahaf\OneDrive\Desktop\F2024 - S2025\F24 CPS613\Assignment\bin\Release\net6.0-windows\publish\Assignment.deps.json
+C:\Users\rahaf\OneDrive\Desktop\F2024 - S2025\F24 CPS613\Assignment\bin\Release\net6.0-windows\publish\Assignment.runtimeconfig.json
+C:\Users\rahaf\OneDrive\Desktop\F2024 - S2025\F24 CPS613\Assignment\bin\Release\net6.0-windows\publish\Assignment.pdb
